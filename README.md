@@ -2,6 +2,8 @@
 
 A comprehensive list of my academic publications, research works, and scholarly contributions.
 
+> **Template Notice**: This is a comprehensive template for an academic publications list. Replace the placeholder entries with your actual publications, maintaining the format and structure for consistency and professionalism.
+
 ## Table of Contents
 
 - [Journal Articles](#journal-articles)
@@ -211,3 +213,5 @@ For collaboration opportunities, reprints, or questions about any of these publi
 *Last Updated: December 2024*
 
 > **Note**: This publications list is maintained regularly. For the most current information, please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=XXXXXXX) or contact me directly.
+> 
+> **Template Usage**: This document serves as a comprehensive template for organizing academic publications. Replace all placeholder information (Author names, titles, DOIs, etc.) with your actual publication details while maintaining the structure and formatting style.
